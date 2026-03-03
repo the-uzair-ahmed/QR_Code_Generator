@@ -117,10 +117,3 @@ For production deployment:
 
 This project is provided as-is. Modify and use according to your project
 requirements.
-
-------------------------------------------------------------------------
-
-## Author
-
-Developed & Maintained by: Your Name\
-Contact: your@email.com
